@@ -1,0 +1,6 @@
+.godot/
+.nomedia
+export_presets.cfg
+builds/
+*.translation
+*.tmp
